@@ -26,6 +26,13 @@ This repository will help you to learn about the different layers of the deep le
 
 ## Some screenshots of the results of our project
 
-```
-sdfs
-```
+##
+<img src="images/filter.png" width=1000>
+
+##
+<img src="images/cnnaugmented.png" width=1000>
+
+##
+<img src="images/graph.png" width=1000>  
+
+##
