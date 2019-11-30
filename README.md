@@ -22,7 +22,7 @@ of the spot, nature of the veins. The five classes are as follows:-
 
 
 ### Things to learn
-This repository will help you to learn about the different layers of the deep learning models that we used and the coding aspects related to deep learning. There is a step-by-step guide with outputs in all of the notebook files. So you don't have to worry about the results.
+This repository will help you to learn about the different layers of the deep learning models that we used and the coding aspects related to deep learning. There is a step-by-step guide with coding and its outputs in all of the notebook files. So you don't have to worry about the results. The models that were implemented are: a five layer CNN model, AlexNet and VGG16.
 
 ## Some screenshots of the results of our project
 
